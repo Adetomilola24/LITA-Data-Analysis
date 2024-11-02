@@ -1,6 +1,12 @@
 # LITA-Data-Analysis
+# Project Overview
+I am currently working on a data analysis capstone project with LITA, building an interactive dashboard to uncover actionable insights and inform strategic decisions. You can follow my project journey here, where Iam documenting every stage from data exploration to dashboard development.
 
-I am currently working on a data analysis capstone project with LITA, building an interactive dashboard to uncover actionable insights and inform strategic decisions. You can follow my project journey here, where I’m documenting every stage from data exploration to dashboard development.
+# Exploratory Data Analysis (EDA):
+EDA involes exploring of Data to answer questions about the data such as
+What is the overall Sales Trend
+Which Product are the top sellers
+What are the productots on the peak sales?
 
 # 💼 Professional Background:
 
